@@ -1,4 +1,4 @@
 # setudemo
 this is my first repository
 <br>
-author-setu
+author-setu (setudemo)
